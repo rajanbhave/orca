@@ -1618,6 +1618,9 @@
       "activity": {
         "you": "You"
       },
+      "ask": {
+        "closed": "That question closed before your answer went. Your answer is kept on the item."
+      },
       "pill": {
         "moveCount_one": "Move {{count}} item to",
         "moveCount_other": "Move {{count}} items to"
